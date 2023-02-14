@@ -1,0 +1,18 @@
+.lato-italy{
+    font-family: "Lato", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+}
+.watch{
+    min-width: 450px;
+}
+.lato-bold{
+    font-family: "Lato", sans-serif;
+    font-weight: 700;
+}
+.grand{
+    font-size: 60px;
+}
+.grand-l{
+    font-size: 70px;
+}
