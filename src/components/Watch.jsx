@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import "../stylesheets/watch.css"
-import beep from "../sounds/beep-10.mp3"
+import beep from "../sounds/Soft Alarm - LG stock alarm tone.mp3"
 
 function Watch() {
     const [sessionlength, setSessionlength] = useState(25)
